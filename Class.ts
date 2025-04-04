@@ -15,3 +15,9 @@ class Product{
 
     }
 }
+
+
+const p1=new Product("samsung","electronics",3999);
+
+console.log(p1);
+p1.display();
